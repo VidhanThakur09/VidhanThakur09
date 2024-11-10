@@ -123,7 +123,7 @@
 </p>
 
 <p align="center" width="100%">
-  <img src="" alt="Footer"/>
+  <img src="https://github.com/VidhanThakur09/VidhanThakur09/blob/e739b5c9b094338f7d9a9b7082a84dcdff987bdb/24c14dcb-e1b0-417b-b790-64333e785833.gif" alt="goodbye" height = 300/>
 </p>
 
 
