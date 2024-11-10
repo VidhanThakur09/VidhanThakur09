@@ -30,52 +30,52 @@
     <tr align="center">
       <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
         <a href="https://gssoc.girlscript.tech/leaderboard">
-          <img src="gssoc.png" alt="GirlScript Summer of Code" width="120" />
+          <img src="https://avatars.githubusercontent.com/u/166525102?s=200&v=4" alt="GirlScript Summer of Code" width="120" />
           <br>
           <strong>GirlScript Summer of Code Extend</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 48th</span>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked 50th</span>
         <br>
         <span style="font-size: 12px; color: #777777;">
-	  Out of 32000+ participants<br>
-          PRs Merged: 69 <br>
-          Total Badges: 7<br>
-          Total Score: 2160<br>
+	  Out of 60000+ participants<br>
+          PRs Merged: 53 <br>
+          Total Badges: 8<br>
+          Total Score: 2130<br>
         </span>
       </td>
       <td style="padding: 15px;" valign="top" width="50%">
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Explorer Badge.png" alt="Explorer Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100"  />
               <br>
               <strong>Explorer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Adventurer Badge.png" alt="Adventurer Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80"  />
               <br>
               <strong>Adventurer Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Champion Badge.png" alt="" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80" />
               <br>
               <strong>Champion Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="Trailblazer Badge.png" alt="Trailblazer Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80" />
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
           </tr>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Summit Seeker Badge.png" alt="Summit Seeker Badge" width="80" />
+                <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80" />
               <br>
               <strong>Summit Seeker Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80" />
               <br>
               <strong>Innovator Badge</strong>
             </td>
