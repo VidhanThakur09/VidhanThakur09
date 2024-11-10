@@ -5,7 +5,7 @@
 ![githubHeader](https://github.com/user-attachments/assets/ed38d141-ea2f-4616-8998-7fc3f4915955)
 
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/vidhan-thakur27/" >Vidhan Thakur</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/vidhan-thakur27/" >Vidhan Thakur</a> <img height="100" alt="Chika Fujiwara" src="https://github.com/VidhanThakur09/VidhanThakur09/blob/111ebe9dc9d32ddbb6106a0f85a8226c91194af5/anime-dance-_online-video-cutter.com_.gif"/></h1>
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
