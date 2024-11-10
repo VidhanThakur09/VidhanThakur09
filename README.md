@@ -38,13 +38,13 @@
         <span style="font-size: 14px; color: #555555;">🏅 Ranked 50th</span>
         <br>
         <span style="font-size: 12px; color: #777777;">
-	  Out of 60000+ participants<br>
+	  Out of 70000+ participants<br>
           PRs Merged: 53 <br>
           Total Badges: 8<br>
           Total Score: 2130<br>
         </span>
       </td>
-      <td style="padding: 15px;" valign="top" width="50%">
+      <td style="padding: 15px;" valign="top" width="200%">
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
@@ -80,12 +80,12 @@
               <strong>Innovator Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Hack-Web3Conf 2024 Badge (2).png" alt="web3Hack Badge" width="80" />
+              <img src="https://github.com/VidhanThakur09/VidhanThakur09/blob/a6d01d56ce4bc135a95bb6c9bafb415d47f2bf14/web3hack.png" alt="web3Hack Badge" width="80" />
               <br>
               <strong>Web3Hack Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <img src="https://github.com/VidhanThakur09/VidhanThakur09/blob/4aa1859a37443445ca48cd7a34e032ab85be2c13/postman.png" alt="Postman API Fundamentals Student Expert" width="80" />
               <br>
               <strong>API Student Expert</strong>
               <br>
