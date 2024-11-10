@@ -24,81 +24,25 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
- 
-<div align="center">
-  <table>
-    <tr align="center">
-      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+<td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
         <a href="https://gssoc.girlscript.tech/leaderboard">
           <img src="https://avatars.githubusercontent.com/u/166525102?s=200&v=4" alt="GirlScript Summer of Code" width="120" />
           <br>
           <strong>GirlScript Summer of Code Extend</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked 50th</span>
+        <span style="font-size: 14px; color: #555555;">🏅 <b> Ranked 50th</b></span>
         <br>
         <span style="font-size: 12px; color: #777777;">
-	  Out of 70000+ participants<br>
-          PRs Merged: 53 <br>
-          Total Badges: 8<br>
-          Total Score: 2130<br>
+	  <b>Out of 70000+ participants || PRs Merged: 53 || Total Badges: 8 ||
+          Total Score: 2130</b> <br> 
         </span>
       </td>
-      <td style="padding: 15px;" valign="top" width="200%">
-        <table>
-          <tr align="center">
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100"  />
-              <br>
-              <strong>Explorer Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80"  />
-              <br>
-              <strong>Adventurer Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80" />
-              <br>
-              <strong>Champion Badge</strong>
-            </td>
-            <td style="padding: 10px;" width="100">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80" />
-              <br>
-              <strong>Trailblazer Badge</strong>
-            </td>
-          </tr>
-          <tr align="center">
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-                <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80" />
-              <br>
-              <strong>Summit Seeker Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80" />
-              <br>
-              <strong>Innovator Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/VidhanThakur09/VidhanThakur09/blob/a6d01d56ce4bc135a95bb6c9bafb415d47f2bf14/web3hack.png" alt="web3Hack Badge" width="80" />
-              <br>
-              <strong>Web3Hack Badge</strong>
-            </td>
-            <td style="padding: 10px;" width="100">
-              <img src="https://github.com/VidhanThakur09/VidhanThakur09/blob/4aa1859a37443445ca48cd7a34e032ab85be2c13/postman.png" alt="Postman API Fundamentals Student Expert" width="80" />
-              <br>
-              <strong>API Student Expert</strong>
-              <br>
-              <span style="font-size: 12px; color: #777777;">Postman</span>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
+ 
+![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/VidhanThakur09?year=2024Extd)
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 
 <summary><b>HACKTOBER FEST(24) Badges</b></summary>><br>
   
