@@ -31,7 +31,7 @@
           <strong>GirlScript Summer of Code Extend</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 <b> Ranked 50th</b></span>
+        <span style="font-size: 14px; color: #555555;">🏅 <b> Ranked 52th</b></span>
         <br>
         <span style="font-size: 12px; color: #777777;">
 	  <b>Out of 70000+ participants || PRs Merged: 53 || Total Badges: 11 ||
