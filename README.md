@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=VidhanThakur09&label=Profile%20views&color=orange&style=plastic" alt="Profile Views" />
 </p>
 
-![githubHeader](https://github.com/user-attachments/assets/ed38d141-ea2f-4616-8998-7fc3f4915955)
+![githubHeader](https://github.com/VidhanThakur09/VidhanThakur09/blob/ab32d18c2bcdd12e13b98f75ff16de25868f8348/Orange%20and%20Green%20Aesthetic%20Opening%20Soon%20Banner.png)
 
 
 <h1 align="center" > Hi there, I'm <a  href="https://www.linkedin.com/in/vidhan-thakur27/">Vidhan Thakur</a> <img height="80" alt="Chika Fujiwara" src="https://github.com/VidhanThakur09/VidhanThakur09/blob/111ebe9dc9d32ddbb6106a0f85a8226c91194af5/anime-dance-_online-video-cutter.com_.gif"/></h1>
